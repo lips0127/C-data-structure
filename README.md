@@ -1,2 +1,3 @@
 # C-data-structure
-data structure learning record
+数据结构学习笔记
+
